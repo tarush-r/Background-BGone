@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "Code/web_server",
+			"group": "clean",
+			"problemMatcher": [],
+			"label": "npm: install - Code/web_server",
+			"detail": "install dependencies from package"
+		}
+	]
+}
